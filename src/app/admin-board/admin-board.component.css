@@ -1,0 +1,17 @@
+.welcomeAdminHeader{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.adminLoginForm{
+    font-family: 'Montserrat', sans-serif;    
+}
+
+.inputBox{
+    margin: 2%;
+}
+
+.loginCard{
+    box-shadow: 1px 1px 1px 1px lightgrey;
+    margin-top: 15%;
+    margin-left: 24%;
+}
